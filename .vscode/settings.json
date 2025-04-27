@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\Github\\lained",
+            "binaryPath": "d:\\Github\\lained\\lained.exe",
+            "binaryArgs": []
+        }
+    ]
+}
